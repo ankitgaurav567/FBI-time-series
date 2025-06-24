@@ -1,5 +1,5 @@
 ﻿
-# 📊 FBI Crime Forecasting Using Time Series & ML
+# 📊 FBI Crime Forecasting Using  ML
 
 ## 🔍 Overview
 This project forecasts future crime trends across U.S. regions using FBI Uniform Crime Reporting (UCR) data. It combines time series modeling and machine learning techniques to analyze historical crime data, identify patterns, and predict future crime rates for strategic planning and policy evaluation.
